@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+wqx_cache.duckdb.wal
+wqx_cache.duckdb
